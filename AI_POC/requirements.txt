@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+numpy
+pyarrow
+plotly
+altair
+vega-datasets
+streamlit-plotly-events
+requests
